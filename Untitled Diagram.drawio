@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T12:41:17.966Z" agent="5.0 (X11)" etag="iFPTM59MQ14_XXF1sTwK" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T12:46:01.641Z" agent="5.0 (X11)" etag="VreR5QCNagK844doB3YU" version="20.3.3" type="github">
   <diagram id="sN0OmuLIDt1SOVn8i7zm" name="Page-1">
     <mxGraphModel dx="1422" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -143,6 +143,18 @@
               <mxPoint x="20" y="270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TYKhlUwKwB5rizse9aNy-3" value="Config" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TYKhlUwKwB5rizse9aNy-4" value="Config_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="TYKhlUwKwB5rizse9aNy-3">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYKhlUwKwB5rizse9aNy-5" value="Key" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="TYKhlUwKwB5rizse9aNy-3">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYKhlUwKwB5rizse9aNy-6" value="Value" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="TYKhlUwKwB5rizse9aNy-3">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
